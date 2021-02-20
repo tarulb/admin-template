@@ -1,16 +1,16 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'Vue学习',
 
   /**
    * @type {boolean} true | false
-   * @description Whether fix the header
+   * @description 菜单栏上方文字
    */
   fixedHeader: false,
 
   /**
    * @type {boolean} true | false
-   * @description Whether show the logo in sidebar
+   * @description 菜单栏上方logo
    */
   sidebarLogo: false
 }
